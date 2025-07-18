@@ -11,7 +11,7 @@
 
 @tailwind utilities;
 
-main {
+body {
   background-image: url('/images/bg.webp');
   background-size: cover;
   background-position: center;
