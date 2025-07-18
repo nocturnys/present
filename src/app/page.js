@@ -1,8 +1,10 @@
+
+
 export default function Home() {
   return (
     <main className="min-h-screen content-center">
 
-      <h10 className="flex select-none justify-center text-9xl font-carol-gothic">
+      <h10 className="flex select-none justify-center text-white text-9xl font-carol-gothic">
         nocturnys
       </h10>
 
